@@ -1,0 +1,2 @@
+# Carry-Look-Ahead-Adder-module-Design-and-Verification-using-Verilog-HDL
+Implemented a 4-bit Carry Lookahead Adder (CLA) module in Verilog, utilizing carry lookahead logic with Generate and Propagate signals to enhance the speed of arithmetic operations.  Developed a detailed Testbench to verify the 4-bit CLA module’s functionality across diverse input scenarios, ensuring accurate results for both sum and carry outputs
